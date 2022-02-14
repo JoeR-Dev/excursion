@@ -28,3 +28,8 @@ p {
 h1, h2 {
     color: white;
 }
+
+#footer {
+    text-align: right;
+    margin: 20px 100px;
+}
